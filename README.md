@@ -1,7 +1,4 @@
+
 # dbxTest
 
-First change. We are editing using Vim editor.
-
-
-
-
+This repo is a personal exercise.
