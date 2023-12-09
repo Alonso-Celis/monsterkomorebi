@@ -5,6 +5,7 @@ name: Deploy if PR closed
 on:
   pull_request:
     branches: [ "main" ]
+    types: [ "closed" ]
 
 jobs:
   deployment:
