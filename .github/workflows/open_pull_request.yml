@@ -3,8 +3,6 @@
 name: Open Pull Request
 
 on:
-  push:
-    branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
 
@@ -21,3 +19,5 @@ jobs:
         python -m pip install --upgrade pip
         # pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Context
+      run: echo "${{ github.event.name }}"
