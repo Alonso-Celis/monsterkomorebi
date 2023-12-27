@@ -1,3 +1,5 @@
 ## aiko
 
-He vuelto al cine.  Sin haberlo imaginado he vuelto al cine. El tiempo era apenas justo. La noche se dibujaba calida.
+He vuelto al cine.  Sin haberlo imaginado he vuelto al cine. El tiempo era apenas justo.
+
+La noche se dibujaba cálida.
