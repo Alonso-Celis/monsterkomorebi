@@ -3,7 +3,9 @@
 
 ```geojson
 {
-   {
+  "type": "FeatureCollection",
+  "features": [
+    {
       "type": "Feature",
       "properties": {},
       "geometry": {
@@ -12,7 +14,9 @@
           48.88432623025918
         ],
         "type": "Point"
-      }
+      },
+      "id": 0
     }
+  ]
 }
 ```
