@@ -1,22 +1,10 @@
 
 # monsterkomorebi
 
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          2.3269277705262823,
-          48.88432623025918
-        ],
-        "type": "Point"
-      },
-      "id": 0
-    }
-  ]
-}
+```mermaid
+mindmap
+Root
+    A
+      B
+      C
 ```
