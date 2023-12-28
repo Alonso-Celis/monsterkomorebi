@@ -1,6 +1,6 @@
 # Test workflow
 name: Open Pull Request
-run-name: {{ github.actor }} is opening a pull request
+run-name:  "@${{ github.actor }} is opening a pull request"
 
 on:
   pull_request:
